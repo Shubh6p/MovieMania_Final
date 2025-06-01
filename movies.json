@@ -1,0 +1,222 @@
+[
+  {
+  "id": "pathaan",
+  "title": "Pathaan (2023)",
+  "category": ["movie", "bollywood", "action", "thriller", "hindi", "top-rated"],
+  "details": "Action | Thriller | 480p | 720p | 1080p WEB-DL MSubs",
+  "image": "images/pathaan.jpg",
+  "url": "movie.html?id=pathaan",
+  "releaseDate": "January 25, 2023",
+  "summary": "An Indian spy races against time to stop a private terror group from launching a massive biological attack on the country.",
+  "rating": "7.0",
+  "languages": "Hindi",
+  "countries": "India",
+  "poster": "images/pathaan.jpg",
+  "trailer": "https://www.youtube.com/embed/vqu4z34wENw",
+  "downloads": {
+    "480p": "links/pathaan-480p.mp4",
+    "720p": "links/pathaan-720p.mp4",
+    "1080p": "links/pathaan-1080p.mp4"
+  }
+},
+  {
+  "id": "gully-boy",
+  "title": "Gully Boy (2019)",
+  "category": ["movie", "bollywood", "drama", "music", "hindi", "top-rated"],
+  "details": "Drama | Music | 480p | 720p | 1080p WEB-DL MSubs",
+  "image": "images/gully-boy.jpg",
+  "url": "movie.html?id=gully-boy",
+  "releaseDate": "February 14, 2019",
+  "summary": "A coming-of-age story of a street rapper from the slums of Mumbai, inspired by the lives of Indian rappers Divine and Naezy.",
+  "rating": "7.9",
+  "languages": "Hindi",
+  "countries": "India",
+  "poster": "images/gully-boy.jpg",
+  "trailer": "https://www.youtube.com/embed/JfbxcD6biOk",
+  "downloads": {
+    "480p": "links/gullyboy-480p.mp4",
+    "720p": "links/gullyboy-720p.mp4",
+    "1080p": "links/gullyboy-1080p.mp4"
+  }
+},
+  {
+  "id": "baahubali-2",
+  "title": "Baahubali 2: The Conclusion (2017)",
+  "category": ["movie", "bollywood", "action", "drama", "hindi-dubbed", "top-rated"],
+  "details": "Action | Drama | 480p | 720p | 1080p WEB-DL MSubs",
+  "image": "images/baahubali-2.jpg",
+  "url": "movie.html?id=baahubali-2",
+  "releaseDate": "April 28, 2017",
+  "summary": "When Shiva learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfold in the Mahishmati Kingdom.",
+  "rating": "8.2",
+  "languages": "Hindi, Telugu, Tamil",
+  "countries": "India",
+  "poster": "images/baahubali-2.jpg",
+  "trailer": "https://www.youtube.com/embed/G62HrubdD6o",
+  "downloads": {
+    "480p": "links/baahubali2-480p.mp4",
+    "720p": "links/baahubali2-720p.mp4",
+    "1080p": "links/baahubali2-1080p.mp4"
+  }
+},
+  {
+  "id": "pk",
+  "title": "PK (2014)",
+  "category": ["movie", "bollywood", "comedy", "drama", "sci-fi", "hindi", "top-rated"],
+  "details": "Comedy | Drama | Sci-Fi | 480p | 720p | 1080p WEB-DL MSubs",
+  "image": "images/pk.jpg",
+  "url": "movie.html?id=pk",
+  "releaseDate": "December 19, 2014",
+  "summary": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent questions and childlike curiosity challenge religious dogmas.",
+  "rating": "8.1",
+  "languages": "Hindi",
+  "countries": "India",
+  "poster": "images/pk.jpg",
+  "trailer": "https://www.youtube.com/embed/SOXWc32k4zA",
+  "downloads": {
+    "480p": "links/pk-480p.mp4",
+    "720p": "links/pk-720p.mp4",
+    "1080p": "links/pk-1080p.mp4"
+  }
+},
+  {
+  "id": "dangal",
+  "title": "Dangal (2016)",
+  "category": ["movie", "bollywood", "biography", "drama", "sports", "hindi", "top-rated"],
+  "details": "Biography | Drama | Sports | 480p | 720p | 1080p WEB-DL MSubs",
+  "image": "images/dangal.jpg",
+  "url": "movie.html?id=dangal",
+  "releaseDate": "December 23, 2016",
+  "summary": "Former wrestler Mahavir Singh Phogat trains his daughters Geeta and Babita to become world-class wrestlers and bring glory to India.",
+  "rating": "8.3",
+  "languages": "Hindi",
+  "countries": "India",
+  "poster": "images/dangal.jpg",
+  "trailer": "https://www.youtube.com/embed/x_7YlGv9u1g",
+  "downloads": {
+    "480p": "links/dangal-480p.mp4",
+    "720p": "links/dangal-720p.mp4",
+    "1080p": "links/dangal-1080p.mp4"
+  }
+},
+  {
+  "id": "3-idiots",
+  "title": "3 Idiots (2009)",
+  "category": ["movie", "bollywood", "comedy", "drama", "top-rated"],
+  "details": "Hindi | Comedy | Drama | 480p | 720p | 1080p WEB-DL",
+  "image": "images/3-idiots.jpg",
+  "url": "movie.html?id=3-idiots",
+  "releaseDate": "December 25, 2009",
+  "summary": "In a journey through college life, three engineering students navigate the pressures of society, family, and self-identity — all while discovering what it means to follow your passion.",
+  "rating": "8.4",
+  "languages": "Hindi",
+  "countries": "India",
+  "poster": "images/3-idiots.jpg",
+  "trailer": "https://www.youtube.com/embed/K0eDlFX9GMc",
+  "downloads": {
+    "480p": "links/3idiots-480p.mp4",
+    "720p": "links/3idiots-720p.mp4",
+    "1080p": "links/3idiots-1080p.mp4"
+  }
+},
+  {
+  "id": "pushpa-the-rise",
+  "title": "Pushpa: The Rise (2021)",
+  "category": ["movie", "bollywood", "action", "hindi-dubbed", "top-rated"],
+  "details": "Hindi Dubbed | Action | Drama | 480p | 720p | 1080p WEB-DL MSubs",
+  "image": "images/pushpa.jpg",
+  "url": "movie.html?id=pushpa-the-rise",
+  "releaseDate": "December 17, 2021",
+  "summary": "Pushpa Raj rises in the world of red sandalwood smuggling, defying the system with power and defiance. A tale of grit, ambition, and dominance.",
+  "rating": "7.6",
+  "languages": "Hindi, Telugu, Tamil",
+  "countries": "India",
+  "poster": "images/pushpa.jpg",
+  "trailer": "https://www.youtube.com/embed/Q1NKMPhP8PY",
+  "downloads": {
+    "480p": "links/pushpa-480p.mp4",
+    "720p": "links/pushpa-720p.mp4",
+    "1080p": "links/pushpa-1080p.mp4"
+  }
+},
+  {
+    "id": "darling-in-the-franxx",
+    "title": "Darling in the Franxx (Season 01)",
+    "category": ["anime", "anime-series", "dual-eng-jap", "hindi-dub", "finished"],
+    "details": "Multi Audio [Hin-Eng-Jap] Season 01 | Anime Series 480p | 720p | 1080p WEB-DL MSubs",
+    "image": "images/darling-in-the-franxx.jpg",
+    "url": "movie.html?id=darling-in-the-franxx",
+    "releaseDate": "January 13, 2018",
+    "summary": "Darling in the Franxx is a dystopian anime about artificially created children who pilot mecha to fight giant monsters, with a focus on the budding romance between Hiro, a prodigy, and Zero Two, a hybrid human/beast hybrid pilot.",
+    "rating": "8.0",
+    "languages": "Hindi-English-Japanese",
+    "countries": "Japan",
+    "poster": "images/darling-in-the-franxx.jpg",
+    "trailer": "https://www.youtube.com/embed/xiNeXCUosSg?si=yefTt0NQzkRqznZx",
+    "downloads": {
+      "480p": "links/the-boys-480p.mp4",
+      "720p": "links/the-boys-720p.mp4",
+      "1080p": "links/the-boys-1080p.mp4"
+    }
+  },
+  {
+    "id": "the-boys",
+    "title": "The Boys (Season 1-4)",
+    "category": ["action", "top-rated", "web-series", "foreign-web-series", "nudity", "dual-audio"],
+    "details": "Dual Audio [Hindi-English] Web Series 480p | 720p | 1080p WEB-DL MSubs",
+    "image": "images/the-boys.jpg",
+    "url": "movie.html?id=the-boys",
+    "releaseDate": "July 26, 2019",
+    "summary": "The Boys is a superhero series where a group of vigilantes fights.....",
+    "rating": "8.0",
+    "languages": "English-Hindi",
+    "countries": "United Kingdom",
+    "poster": "images/the-boys.jpg",
+    "trailer": "https://www.youtube.com/embed/5SKP1_F7ReE?si=dfl78I1_i5lMCDXm",
+    "downloads": {
+      "480p": "links/the-boys-480p.mp4",
+      "720p": "links/the-boys-720p.mp4",
+      "1080p": "links/the-boys-1080p.mp4"
+    }
+  },
+  {
+    "id": "the-americas",
+    "title": "The Americas (Season 1)",
+    "category": ["movie", "hollywood", "dual-audio", "hindi-dubbed", "latest"],
+    "details": "Dual Audio [Hindi-English] Movie 480p | 720p | 1080p WEB-DL MSubs",
+    "image": "images/the-americas.jpg",
+    "url": "movie.html?id=the-americas",
+    "releaseDate": "February 23, 2025",
+    "summary": "Explores the wonders, mysteries, and fragilities of the Americas...",
+    "rating": "8.0",
+    "languages": "English",
+    "countries": "United Kingdom",
+    "poster": "images/the-americas.jpg",
+    "trailer": "https://www.youtube.com/embed/gm4c7Wnhv94",
+    "downloads": {
+      "480p": "links/the-americas-480p.mp4",
+      "720p": "links/the-americas-720p.mp4",
+      "1080p": "links/the-americas-1080p.mp4"
+    }
+  },
+  {
+    "id": "inception",
+    "title": "Inception",
+    "category": ["movie", "hollywood", "hindi-dubbed", "top-rated"],
+    "details": "Dual Audio [Hindi-English] Movie 480p | 720p | 1080p WEB-DL MSubs",
+    "image": "images/inception.jpg",
+    "url": "movie.html?id=inception",
+    "releaseDate": "July 16, 2010",
+    "summary": "A skilled thief is given a chance to erase his criminal record...",
+    "rating": "8.8",
+    "languages": "English, Japanese, French",
+    "countries": "USA",
+    "poster": "images/inception.jpg",
+    "trailer": "https://www.youtube.com/embed/YoHD9XEInc0",
+    "downloads": {
+      "480p": "links/inception-480p.mp4",
+      "720p": "links/inception-720p.mp4",
+      "1080p": "links/inception-1080p.mp4"
+    }
+  }
+]
