@@ -17,7 +17,7 @@ Fully responsive design for mobile, tablet, and desktop 📱💻
 Built with HTML, CSS (Grid & Flexbox), and JavaScript for a modern and user-friendly experience.
 
 How to use:
-Open index.html in your browser.
+Open https://shubh6p.github.io/MovieMania_Final/ in your browser.
 
 Search, filter, or paginate movies.
 
